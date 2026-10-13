@@ -1,0 +1,4 @@
+# Centralized configuration for doctor-service.yml
+info:
+  service: "doctor-service.yml"
+

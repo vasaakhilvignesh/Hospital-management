@@ -1,0 +1,4 @@
+# Centralized configuration for patient-service.yml
+info:
+  service: "patient-service.yml"
+

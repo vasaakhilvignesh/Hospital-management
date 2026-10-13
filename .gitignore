@@ -29,3 +29,9 @@ yarn-error.log*
 .settings/
 .DS_Store
 Thumbs.db
+
+# Scratch and temp files
+scratch/
+__pycache__/
+*.pyc
+*.pptx

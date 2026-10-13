@@ -1,0 +1,4 @@
+# Centralized configuration for appointment-service.yml
+info:
+  service: "appointment-service.yml"
+

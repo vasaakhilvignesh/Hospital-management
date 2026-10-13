@@ -1,0 +1,4 @@
+# Centralized configuration for report-service.yml
+info:
+  service: "report-service.yml"
+

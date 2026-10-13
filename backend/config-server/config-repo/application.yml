@@ -1,0 +1,8 @@
+# Centralized configuration for all microservices
+info:
+  service: "application.yml"
+
+eureka:
+  instance:
+    prefer-ip-address: true
+    ip-address: ${EUREKA_INSTANCE_IP_ADDRESS:127.0.0.1}

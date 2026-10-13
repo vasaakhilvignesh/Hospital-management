@@ -1,0 +1,4 @@
+# Centralized configuration for auth-service.yml
+info:
+  service: "auth-service.yml"
+

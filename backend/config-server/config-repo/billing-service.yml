@@ -1,0 +1,4 @@
+# Centralized configuration for billing-service.yml
+info:
+  service: "billing-service.yml"
+

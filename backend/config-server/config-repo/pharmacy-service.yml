@@ -1,0 +1,4 @@
+# Centralized configuration for pharmacy-service.yml
+info:
+  service: "pharmacy-service.yml"
+

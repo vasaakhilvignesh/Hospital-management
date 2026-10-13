@@ -1,0 +1,6 @@
+name: HMS Local
+values:
+  - key: baseUrl
+    value: ''
+  - key: token
+    value: ''

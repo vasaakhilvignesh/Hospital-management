@@ -1,0 +1,4 @@
+# Centralized configuration for api-gateway.yml
+info:
+  service: "api-gateway.yml"
+

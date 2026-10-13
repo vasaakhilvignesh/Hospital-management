@@ -1,0 +1,3 @@
+# Centralized configuration for notification-service.yml
+info:
+  service: "notification-service.yml"
